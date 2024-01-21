@@ -1,0 +1,7 @@
+CRITICAL - 2024-01-14 10:24:37 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('$1', '$2')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

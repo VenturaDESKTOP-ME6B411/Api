@@ -1,0 +1,614 @@
+CRITICAL - 2023-12-29 08:41:04 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 48)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->inserta('pimiendo')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 08:42:30 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 48)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->inserta('pimiendo')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 08:42:31 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 48)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->inserta('pimiendo')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 08:57:25 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 48)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->inserta('pimiendo')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 08:57:33 --> Too few arguments to function App\Controllers\Home::inserta(), 0 passed in F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->inserta()
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-29 09:05:07 --> Too few arguments to function App\Controllers\Home::inserta(), 0 passed in F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->inserta()
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-29 09:05:08 --> Too few arguments to function App\Controllers\Home::inserta(), 0 passed in F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->inserta()
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-29 09:05:08 --> Too few arguments to function App\Controllers\Home::inserta(), 0 passed in F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->inserta()
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-29 09:05:08 --> Too few arguments to function App\Controllers\Home::inserta(), 0 passed in F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->inserta()
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-29 10:59:41 --> Too few arguments to function App\Controllers\Home::insertar(), 0 passed in F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-29 11:00:25 --> Too few arguments to function App\Controllers\Home::insertar(), 0 passed in F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-29 11:00:27 --> Too few arguments to function App\Controllers\Home::insertar(), 0 passed in F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-29 11:01:48 --> Too few arguments to function App\Controllers\Home::insertar(), 0 passed in F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-29 11:01:51 --> Too few arguments to function App\Controllers\Home::insertar(), 0 passed in F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-29 11:01:52 --> Too few arguments to function App\Controllers\Home::insertar(), 0 passed in F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-29 11:01:53 --> Too few arguments to function App\Controllers\Home::insertar(), 0 passed in F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-29 11:04:54 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 48)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:05:05 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 48)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('matar')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:05:12 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 48)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:08:01 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:08:48 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:40 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:40 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:41 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:41 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:41 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:41 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:41 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:42 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:42 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:42 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:42 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:43 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:43 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:43 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:43 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:43 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:44 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:44 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:44 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:44 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:44 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:45 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:45 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:45 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:45 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:45 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:46 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:46 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:46 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:46 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:09:46 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('1')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:10:51 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('edkok')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:11:02 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('45')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:11:24 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('45')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 11:26:23 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('45')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 14:58:01 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 15:00:22 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 15:00:23 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 15:00:23 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 15:00:23 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 15:00:24 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 15:00:32 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 15:00:40 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'F:\\Xamm\\htdocs\\...', 49)
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-12-29 15:06:27 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 15:06:27 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-12-29 15:07:49 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 15:07:49 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-12-29 15:07:50 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 15:07:50 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-12-29 15:07:50 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 15:07:50 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-12-29 15:07:50 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 15:07:50 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-12-29 15:07:50 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 15:07:50 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-12-29 15:09:38 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 15:09:38 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-12-29 15:09:39 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 15:09:39 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-12-29 15:09:39 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 15:09:39 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-12-29 15:09:39 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 15:09:39 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-12-29 15:09:40 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 15:09:40 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-12-29 15:09:40 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 15:09:40 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar('limon')
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-12-29 15:14:12 --> syntax error, unexpected token "public", expecting end of file
+#0 F:\Xamm\htdocs\codeigniter3\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/test2')
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('home/test2')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 15:14:13 --> syntax error, unexpected token "public", expecting end of file
+#0 F:\Xamm\htdocs\codeigniter3\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/test2')
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('home/test2')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 15:14:17 --> syntax error, unexpected token "public", expecting end of file
+#0 F:\Xamm\htdocs\codeigniter3\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/test2')
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('home/test2')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 15:14:18 --> syntax error, unexpected token "public", expecting end of file
+#0 F:\Xamm\htdocs\codeigniter3\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/test2')
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('home/test2')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-29 15:14:18 --> syntax error, unexpected token "public", expecting end of file
+#0 F:\Xamm\htdocs\codeigniter3\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/test2')
+#1 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('home/test2')
+#2 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-12-29 16:13:51 --> Error connecting to the database: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+CRITICAL - 2023-12-29 16:13:51 --> Unable to connect to the database.
+Main connection [postgre]: pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;db&quot;
+#0 F:\Xamm\htdocs\codeigniter3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 F:\Xamm\htdocs\codeigniter3\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pr...', Array, false)
+#2 F:\Xamm\htdocs\codeigniter3\app\Controllers\Home.php(56): CodeIgniter\Database\BaseBuilder->insert(Array)
+#3 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(825): App\Controllers\Home->insertar()
+#4 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\Xamm\htdocs\codeigniter3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\Xamm\htdocs\codeigniter3\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
